@@ -1,0 +1,15 @@
+{
+    "short_name": "Paola Arraut",
+    "name": "Paola Arraut - Portfolio",
+    "icons":[{
+
+        "src": "images/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#1B0326",
+    "background_color": "##C7C6CC"
+}
