@@ -4,7 +4,11 @@ export default {
     './src/**/*.{ts,js}'
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        vt: ['VT323', 'monospace'],
+      }
+    },
   },
   plugins: [],
 }
